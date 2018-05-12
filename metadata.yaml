@@ -1,0 +1,28 @@
+_repo: '------_25360'
+_version: 0.1.0
+alternative_title: Mengzi zi yi shu zheng
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dai, Zhen
+    alias: 戴震
+    birthdate: 1724
+    deathdate: 1777
+    gutenberg_agent_id: '32947'
+    url: http://www.gutenberg.org/2009/agents/32947
+description: ''
+gutenberg_issued: '2008-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25360'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Mencius. Mengzi'
+title: 孟子字義疏證
+url: http://www.gutenberg.org/ebooks/25360
